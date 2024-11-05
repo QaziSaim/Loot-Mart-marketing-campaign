@@ -506,6 +506,23 @@ Responders (value 1) show higher purchase amounts across all product categories 
 
 #### **Count Plot based on Response**
 
-**Simplified by Count Type**
+**Simplified based on Customer Status**
 
-- Analyzing feature distributions reveals customers are more likely to respond to the campaign if they have higher spending across all products.
+- **Education**
+    - Customers with `Graduation, PhD, and Master` degrees have higher response counts, each showing a response ratio greater than 13.4% (up to 20% max).
+  
+- **Marital_Status**
+    - `Single, Married, Together, and Divorced` statuses have higher response counts, but the response vs. no-response ratio is less than 22.4% (up to 50% max).
+
+- **Kidhome & Teenhome**
+    - As the number of children or teenagers a customer has increases, the likelihood of them responding to the latest marketing campaign decreases. Therefore, it’s better for the company to target customers without children or teenagers. Additionally, the response vs. no-response ratio decreases as the number of children/teenagers increases.
+
+**Simplified based on Campaign/Complaint**
+
+- **AcceptedCmp columns**
+    - The highest response rates tend to be from customers who did not accept a campaign.
+    - For customers who accepted campaigns, only Campaigns 1, 3, 4, and 5 have higher response counts. The response vs. no-response ratio ranges from 33% to 56%, which means there is not a significant difference, and the comparison is relatively balanced.
+    - Campaign 2, while having a very small number of responses, has the highest response vs. no-response ratio at 66%.
+
+- **Complain**
+    - The highest response rates tend to come from customers who did not have complaints about the campaign.
