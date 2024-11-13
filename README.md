@@ -526,3 +526,16 @@ Responders (value 1) show higher purchase amounts across all product categories 
 
 - **Complain**
     - The highest response rates tend to come from customers who did not have complaints about the campaign.
+# 📌 Feature Engineering / Extraction
+New Calculation, Extraction, and Binning features for business insight :
+- Age Customer
+- Age Group
+- Has Child
+- Dependents
+- Month Customer
+- Spending
+- Total Accepted/Responses
+- Education and Marital Simplify
+- Income Segment
+- Convertion Rate
+- Total of days/years joined
