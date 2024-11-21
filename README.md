@@ -539,3 +539,5 @@ New Calculation, Extraction, and Binning features for business insight :
 - Income Segment
 - Convertion Rate
 - Total of days/years joined
+
+- 
