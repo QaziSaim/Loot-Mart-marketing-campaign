@@ -262,6 +262,7 @@ Here's the translated content:
     5. `MntSweetProducts`, mean = 27.06, median = 8
     6. `MntGoldProds`, mean = 44.02, median = 24
 
+
     These discrepancies suggest a high number of `outliers` and a `skewed distribution`, so `Log Transformation` should be applied in Data Preprocessing to make the data more normally distributed.
 
 - **Moderately Positively Skewed (slightly skewed to the right) columns:**
