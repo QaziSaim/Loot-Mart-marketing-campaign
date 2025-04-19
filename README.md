@@ -26,7 +26,6 @@
 - **Dataset**
 
 [Marketing campaign](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign "Marketing campaign dataset from Kaggle")
-
 ## **💻 Script 💻**
 
 ## **📍 Table of Content 📍**
