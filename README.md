@@ -1,6 +1,3 @@
-Below is the translated version of your README.md file into English. I’ve kept the structure, formatting, and content intact while translating the text. You can copy this content into a file and save it as `README.md` for download.
-
----
 
 # **✨ Marketing Campaign - by Datalicious ✨**
 
