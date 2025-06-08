@@ -1,19 +1,7 @@
 
-# **✨ Marketing Campaign - by Datalicious ✨**
+# **✨ Marketing Campaign ✨**
 
 <img src="https://raw.githubusercontent.com/nurimammasri/Marketing-Campaign-Model-Prediction-by-Datalicious/main/assets/banner.png">
-
-**✅ Members of Datalicious ✅**
-
-1. Nur Imam Masri
-2. Astuti Rahmawati
-3. Prasidya Bagaskara
-4. Moh. Harwin Prayoga
-5. Riskiyatul Hasanah
-6. M Rayhan Azzindani
-7. Siti Hajjah Mardiah
-8. Christine
-9. M. Ifzal Asril
 
 ## **⚙ Work Environment ⚙**
 
@@ -84,40 +72,6 @@
 
 Based on these issues, the Marketing Team requested the data team to analyze the problems. The company aims to create a targeted marketing campaign based on **customer characteristics**. This strategy is expected to **increase response rate**, **minimize costs**, and subsequently **increase profit**.
 
-### **📌 Roles**
-
-As the **data team** at Lotto Mart Supermarket, we are tasked with analyzing the success of the next marketing campaign. Below are the roles and the respective PICs (Persons in Charge) contributing to resolving the issues at Lotto Mart:
-
-- **Lead Data Science**
-
-    Project coordinator
-
-    PIC: `Nur Imam Masri`
-
-- **Machine Learning Engineer**
-
-    Building and evaluating Machine Learning models
-    
-    PIC: `Prasidya Bagaskara` and `Moh. Harwin Prayoga`
-    
-- **Data Engineer**
-
-    Handling Data Preparation, Cleaning, and    
-    Exploratory Data Analysis (EDA)
-
-    PIC: `M Rayhan Azzindani` and `M. Ifzal Asril`
-
-- **Business Analyst**
-
-    Generating business insights
-
-    PIC: `Riskiyatul Hasanah` and `Christine`
-
-- **Data Analyst**
-
-    Creating dashboards
-
-    PIC: `Siti Hajjah Mardiah` and `Astuti Rahmawati`
 
 ### **📌 Goals**
 
